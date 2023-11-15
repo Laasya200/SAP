@@ -1,0 +1,17 @@
+*{
+ background-color: beige;
+ text-align: center;
+}
+h1{
+    color: black;
+}
+div{
+    margin:auto;
+    background-color: black;
+
+}
+.btn{
+    padding:10px;
+    color: blue;
+    border:black;
+}
